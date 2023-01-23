@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Udacity NanoDegree First Project - The Shoe Store</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instructionTitle">Instruction Title</string>
+    <string name="Instructions">Instructions</string>
+    <string name="startButton">Start</string>
+    <string name="nameLabel">Name</string>
+    <string name="nameHint">Name Hint</string>
+    <string name="companyLabel">Company</string>
+    <string name="companyHint">Company Hint</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="saveButton">Save</string>
+    <string name="descriptionHint">Description hint</string>
+    <string name="descriptionLabel">Description label</string>
+    <string name="emailTextView">Email</string>
+    <string name="passwordTextView">Password</string>
+    <string name="emailHint">Please type your email address</string>
+    <string name="passwordHint">Please type your password</string>
+    <string name="loginButton">Login</string>
+    <string name="createAccountButton">Create an account</string>
+    <string name="welcomeTitleText">Welcome</string>
+    <string name="welcomeSubtitleText">Click next to read the instructions</string>
+    <string name="nextButton">Next</string>
+    <string name="instructionsText">1. Click start to see a list of shoes.\n2. You can use the menu to logout. Just click the three dots at the top right corner of the screen.\n3. You can add new shoes. Just click the bottom at the bottom right corner of the screen.</string>
+    <string name="instructionsTitle">Instructions</string>
+    <string name="floatingButton">Create a new shoe</string>
+    <string name="sizeLabel">Size:</string>
+    <string name="sizeHint">Please type the shoe size</string>
+    <string name="logoutMenuItem">Logout</string>
+    <string name="stringValue">%s %s</string>
+    <string name="doubleValue">%s %.1f</string>
+</resources>
